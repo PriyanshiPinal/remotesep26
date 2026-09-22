@@ -1,0 +1,5 @@
+Big data -Hadoop architecture
+Pyspark
+Hive
+Scala
+Artificial Intelligence
